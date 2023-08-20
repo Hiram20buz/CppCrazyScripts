@@ -5,3 +5,14 @@ fn main() {
         println!("Hello world");
     }
 }
+/*
+fn main() {
+    match (10, 10 % 2 == 0) {
+        (c, true) => {
+            println!("Hello world, c is {}", c);
+        }
+        _ => {}
+    }
+}
+
+*/
