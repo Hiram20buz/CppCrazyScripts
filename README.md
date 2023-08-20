@@ -1,0 +1,2 @@
+# CppCrazyScripts
+Cpp crazy scripts 
